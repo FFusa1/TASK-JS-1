@@ -16,7 +16,7 @@
 }
 html {
   font-size: 10px;
-
+  /* 1 rem 10px */
 }
 body {
   font-family: var(--font-main);
@@ -40,7 +40,7 @@ ul {
 .h-6 {
   fill: rgb(239, 140, 1);
 }
-
+/* top_nav */
 .top_nav {
   width: 100%;
   height: 4rem;
@@ -67,7 +67,7 @@ ul {
   font-weight: 600;
   color: var(--colo-white-1);
 }
-
+/* navbaar */
 .nav {
   width: 100%;
   height: 8rem;
@@ -126,7 +126,7 @@ ul {
   cursor: pointer;
 }
 
-
+/* header */
 .header_container {
   width: 100%;
   display: flex;
@@ -142,12 +142,12 @@ ul {
   color: var(--colo-dark-1);
 }
 
-
+/* section */
 .section {
   margin-top: 10rem;
 }
 
-
+/* flash sale */
 
 .section_category_p {
   border-left: 1.4rem solid var(--colo-primary);
@@ -168,7 +168,7 @@ ul {
 #demo {
   font-size: 1.8rem;
 }
-
+/* swiper slide */
 .swiper {
   width: 100%;
   height: 100%;
@@ -184,7 +184,7 @@ ul {
   align-items: center;
 }
 
-
+/* cards */
 .card {
   margin-bottom: 5rem;
 }
@@ -273,7 +273,7 @@ ul {
   height: auto;
 }
 
-
+/* trending */
 .trending {
   background-color: var(--colo-dark-1);
   padding: 8rem 4rem;
@@ -307,7 +307,7 @@ ul {
   grid-gap: 2rem;
 }
 
-
+/* gallery */
 .gallery_item {
   width: 100%;
   position: relative;
@@ -372,6 +372,7 @@ ul {
   grid-row-end: 8;
 }
 
+/* services */
 .services_container {
   width: 100%;
   display: grid;
@@ -384,7 +385,7 @@ ul {
 .service_title {
   margin: 1.5rem 0rem;
 }
-
+/* footer */
 .footer {
   margin-top: 10rem;
   background-color: var(--colo-dark-1);
@@ -479,7 +480,7 @@ ul {
   display: none;
 }
 
-
+/* Cart page */
 .cart {
   width: 100%;
 }
@@ -522,6 +523,7 @@ ul {
   margin-top: 2rem;
 }
 
+/* Authentications */
 .auth_container {
   width: 100%;
   display: flex;
